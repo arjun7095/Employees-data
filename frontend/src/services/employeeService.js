@@ -21,7 +21,7 @@ export const getEmployees = async () => {
 };
 //Creating the Employee details
 export const createEmployee = async (data) => {
-  alert(data.name)
+  
   const response = await axios.post(API_URL, data);
   return response.data;
 };
