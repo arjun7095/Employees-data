@@ -143,11 +143,10 @@
 }
 
 .modal-buttons .confirm {
-  background-color: #dc3545;
   color: white;
 }
 
 .modal-buttons .cancel {
-  background-color: #6c757d;
+  
   color: white;
 }
